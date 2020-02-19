@@ -53,8 +53,6 @@ To render maps onto our application we used the Google Maps API and styled the m
 
 ## The Team
 
-![alt text](/public/grouppic.jpg)
-From left to right:
 
 [Jack](https://github.com/Jground-33): API/Admin Portal Lead
 
